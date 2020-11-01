@@ -14,7 +14,8 @@
   "license": "ISC",
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-gcd": "bin/brain-gcd.js"
   },
   "bugs": {
     "url": "https://github.com/Garedbang/backend-project-lvl1/issues"
